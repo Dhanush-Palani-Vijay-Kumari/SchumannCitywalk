@@ -14,10 +14,6 @@ An Android app to explore notable sights related to Schumann, music, and archite
 - **Notifications:** Receive reminders or updates about sights, such as visit suggestions or favorite confirmations.
 - **Animations:** Enjoy smooth UI transitions and engaging visual effects throughout the app.
 
-## Screenshots
-
-
-
 ## Tech Stack
 
 - Java & Kotlin
